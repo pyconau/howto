@@ -36,13 +36,24 @@
     - Check server with discord
     - Invite Volunteers
     - Invite Speakers
-    - Invite Members
+    - Setup Discord Invite Bot to invite members
+        - Create pretix account token
+        - 
 - Saftey Team
     - Find Lead
     - Create form for members
     - Send form for members
 - Ticketing
     - Setup Pretix
+- Program
+    - Create slides for opening
+    - Organise who is running lightning talks
+- Lightning Talks
+    - Arrange hosts for announcing talks
+    - Organise hosts for selecting talks
+    - Create lightning talk form
+    - Announce lightning talk form
+    - Announce lightning talk acceptance
 - CFP
     - Anonymise talks
     - Review talks
