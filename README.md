@@ -3,7 +3,17 @@
 [Wiki](https://github.com/pyconau/howto/wiki).
 
 ## Checklist
-
+- Access requests
+    - Give people access to
+    - Ticketing - Pretix
+    - Program - Pretalx
+    - Email - Jelly
+    - Project Management - Trello
+    - File Store - Google Drive
+    - Chat - Discord
+    - Banking - Westpac
+    - Invoicing - Xero
+    - Code - GitHub
 - Venue
     - Search for Venue
     - Sign contract with Venue
@@ -38,8 +48,7 @@
     - Invite Speakers
     - Setup Discord Invite Bot to invite members
         - Create pretix account token
-        - 
-- Saftey Team
+- Safety Team
     - Find Lead
     - Create form for members
     - Send form for members
@@ -57,6 +66,7 @@
 - CFP
     - Anonymise talks
     - Review talks
+    - Request 
     - Announce
         - Opening
         - Deadlines
@@ -71,6 +81,7 @@
     - Check if speakers would like financial aid
     - Require speakers fill out financial aid by deadline
     - Create thunderdome spreadsheet
+    - Host thunderdome for talk selection
     - Ask for speakers location
     - Ask if speakers need Visa
 - Announcements
@@ -125,12 +136,18 @@
         - Pads
         - Toothbrush
         - Toothpaste
+    - Clipboards
 - Printing
     - Badges
+        - Design badge backgrounds
+        - Setup Badgegen for current year's tickets
+    - Bring printer for printing on site
     - Thank you cards
     - Bathroom signage
     - Directional signage
+    - Quiet Room signage
     - Core team/AV room signage
+    - Timing cards
 - Financial Aid
 - Photography
     - Pictures of:
@@ -143,7 +160,14 @@
 - Volunteering
     - Figure out who handles first aid (venue or volunteers?)
 - Financial Aid
-    - Setup
+    - Create form
+    - Publish form
+    - Announce rejections
+    - Announce acceptances
+- Sprints
+    - Organising
+- Sponsorship
+    - TODO
 
 ## Before Registration Opens
 - Sticker distribution
@@ -154,5 +178,6 @@
 - Setup signage for crowdwork
 - Setup sponsor booths
 - Print out sponsor welcome sheet
+- Communicate WIFI details
 ## After Registration Opens
 ## After Conference Close
