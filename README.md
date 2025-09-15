@@ -1,3 +1,147 @@
 # How to run a PyCon AU
 
-See the [wiki](https://github.com/pyconau/howto/wiki).
+[Wiki](https://github.com/pyconau/howto/wiki).
+
+## Checklist
+
+- Venue
+    - Search for Venue
+    - Sign contract with Venue
+- Catering
+    - Deadlines for dietaries
+    - Extent of dietaries
+        - Kosher
+        - Halal
+        - Dairy
+        - Gluten
+        - Vegan
+        - Vegeterian
+- Budget
+    - Create Budget
+    - Approval from Linux Australia
+- Timeline
+    - Create timeline
+        - CFP Period
+        - Anonymisation Period
+        - Anonymised Reviewing Period
+        - Conference Start
+        - Printing Deadlines
+        - Financial Aid Period
+- Organisation Discord
+    - Create
+    - Send out invites
+- Conference Discord
+    - Create server
+    - Check server with organisers
+    - Check server with discord
+    - Invite Volunteers
+    - Invite Speakers
+    - Invite Members
+- Saftey Team
+    - Find Lead
+    - Create form for members
+    - Send form for members
+- Ticketing
+    - Setup Pretix
+- CFP
+    - Anonymise talks
+    - Review talks
+    - Announce
+        - Opening
+        - Deadlines
+        - Rejections (with a way to sign up for next year)
+        - Waitlists
+        - Acceptances (with deadline)
+        - Acceptance reminders (with deadline)
+        - Speaker Pack
+        - Publicity
+    - Setup dates for thunderdome
+    - Check if speakers can't attend without financial aid
+    - Check if speakers would like financial aid
+    - Require speakers fill out financial aid by deadline
+    - Create thunderdome spreadsheet
+    - Ask for speakers location
+    - Ask if speakers need Visa
+- Announcements
+    - Add event to calendars
+        - https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event
+        - PyConAsia
+        - TODO: Other Calendars 
+    - Email mailing list
+    - Posts on
+        - Bluesky
+        - Mastodon
+        - Email
+        - Facebook
+        - LinkedIn
+        - Instagram
+- Reviewers
+    - Create form to enlist reviewers
+    - How To document
+        - Create or update with instructions/dates
+    - Send form
+    - Send How To document
+    - Check if names of reviewers match emails of submitters (to ensure that reviewers aren't reviewing themselves)
+    - Invite to Discord
+    - Invite to Pretix
+- Apply for PSF Grant
+    - Fill out form
+- Conference Art
+    - Search for artists
+    - Get quotes from artists
+    - Check intial artist proof
+    - Get files
+    - Pay artist
+    - Send files to AV
+- Ordering Goods
+    - Determining deadlines
+    - Stickers
+        - Pronouns
+        - Hiring/Open
+        - Curlyboi
+        - Heartboi
+        - Conference Art
+        - Shiny Conference Art
+    - Cups
+    - Lanyards
+    - Banners
+    - Badge Sleeves
+    - T-Shirts
+    - Pins
+    - Bathroom supplies
+        - Deodorant
+        - Tampons
+        - Pads
+        - Toothbrush
+        - Toothpaste
+- Printing
+    - Badges
+    - Thank you cards
+    - Bathroom signage
+    - Directional signage
+    - Core team/AV room signage
+- Financial Aid
+- Photography
+    - Pictures of:
+        - Audience
+        - Speakers
+        - Hallway track
+        - Sponsors
+        - Opening
+        - Closing
+- Volunteering
+    - Figure out who handles first aid (venue or volunteers?)
+- Financial Aid
+    - Setup
+
+## Before Registration Opens
+- Sticker distribution
+    - 2/4 on day 1
+    - 1/4 on day 2
+    - 1/4 on day 3
+- Setup tables for registration desk
+- Setup signage for crowdwork
+- Setup sponsor booths
+- Print out sponsor welcome sheet
+## After Registration Opens
+## After Conference Close
